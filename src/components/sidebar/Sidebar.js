@@ -19,7 +19,7 @@ function Sidebar() {
       <div className="sidebarListItem">
         <Icon className="sidebar__listIcon" />
         <span className="sidebar__listText">{topic}</span>
-      </div>{" "}
+      </div>
     </div>
   );
 
